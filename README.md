@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pkedar2
+- 👋 Hi, I’m Pranav
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate 
